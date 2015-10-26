@@ -1,4 +1,6 @@
 #initialize game variables 
+puts "hello world"
+
 game_array = ["rock", "paper", "scissors" ]
 plays = 1
 computer_score = 0
